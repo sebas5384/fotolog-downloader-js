@@ -1,0 +1,4 @@
+download/*
+!download/.empty
+npm-debug.log
+node_modules
