@@ -33,3 +33,6 @@ $ tree -d --filelimit 10
 
 4 directories
 ```
+
+# Inspiration
+https://github.com/DaniSancas/fotolog-downloader
