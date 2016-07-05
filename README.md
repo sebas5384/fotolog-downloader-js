@@ -8,6 +8,7 @@ This program will download all your photos from Fotolog to a directory `download
 ```
 git clone https://github.com/sebas5384/fotolog-downloader-js.git
 cd fotolog-downloader-js
+npm install
 ```
 
 # Use
